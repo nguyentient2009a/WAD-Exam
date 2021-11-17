@@ -1,0 +1,9 @@
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.GlobalUsings.g.cs
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.csproj.AssemblyReference.cache
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.AssemblyInfoInputs.cache
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.AssemblyInfo.cs
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.RazorAssemblyInfo.cache
+C:\Users\NguyenTien\source\repos\WAD\WAD\obj\Debug\net6.0\WAD.RazorAssemblyInfo.cs
